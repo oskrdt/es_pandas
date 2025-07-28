@@ -223,5 +223,5 @@ class es_pandas(object):
 
 
 class BarNothing(object):
-    def update(self, arg):
+    def update(self, *arg):
         pass
